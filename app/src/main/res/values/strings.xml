@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDo-kotlin</string>
+    <string name="editText_item_text">Enter item text here</string>
+    <string name="button_add_item">Add item</string>
+    <string name="button_add">Add</string>
+    <string name="txt_description">Description...</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_delete_item">Delete item</string>
+    <string name="txt_edit_item">Edit item</string>
+</resources>

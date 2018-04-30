@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo-kotlin</string>
+    <string name="editText_item_text">Введите пункт сюда</string>
+    <string name="button_add_item">Добавить пункт</string>
+    <string name="button_add">Добавить</string>
+    <string name="txt_description">Описание...</string>
+    <string name="txt_title">Заголовок</string>
+    <string name="txt_delete_item">Удалить элемент</string>
+    <string name="txt_edit_item">Редактировать элемент</string>
+</resources>
